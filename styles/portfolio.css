@@ -142,3 +142,11 @@ font-weight: 600;
         margin-top: 130px;
     }
     
+    .resume-container{
+       display:flex;
+       gap: 24px;
+       
+    }
+    .resume-download-cv{
+       margin-top: 50px;
+    }
