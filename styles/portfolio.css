@@ -150,3 +150,8 @@ font-weight: 600;
     .resume-download-cv{
        margin-top: 50px;
     }
+   
+    .foot{
+        display: flex;
+        justify-content: space-around;
+    }
